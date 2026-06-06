@@ -2,10 +2,8 @@
 <h3 align="center">Senior Java & Backend Engineer &nbsp;·&nbsp; Microservices Architect &nbsp;·&nbsp; Technical Trainer</h3>
 
 <p align="center">
-  <a href="[Your LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:[Your Email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="[Portfolio URL]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
-  <a href="[Blog URL]"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
+  <a href="https://www.linkedin.com/in/mahesh-patluri-74699a66"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:patluri.mahesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -157,10 +155,8 @@ Training materials I build typically include concept decks, hands-on labs, real-
 
 I am open to conversations about **senior backend roles**, **cloud/microservices architecture positions**, **principal engineer tracks**, and **technical training collaborations**.
 
-- 💼 LinkedIn: [Your LinkedIn URL]
-- 📧 Email: [Your Email]
-- 🌐 Portfolio: [Portfolio URL]
-- ✍️ Blog / Articles: [Blog URL]
+- 💼 LinkedIn: [linkedin.com/in/mahesh-patluri-74699a66](https://www.linkedin.com/in/mahesh-patluri-74699a66)
+- 📧 Email: [patluri.mahesh@gmail.com](mailto:patluri.mahesh@gmail.com)
 
 ---
 
