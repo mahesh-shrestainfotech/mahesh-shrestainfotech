@@ -144,10 +144,10 @@ Training materials I build typically include concept decks, hands-on labs, real-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahesh-shrestainfotech&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patluri-mahesh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-shrestainfotech&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patluri-mahesh&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -162,5 +162,5 @@ I am open to conversations about **senior backend roles**, **cloud/microservices
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahesh-shrestainfotech&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=patluri-mahesh&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
