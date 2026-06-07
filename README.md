@@ -156,7 +156,7 @@ Training materials I build typically include concept decks, hands-on labs, real-
 
 I am open to conversations about **senior backend roles**, **cloud/microservices architecture positions**, **principal engineer tracks**, and **technical training collaborations**.
 
-- 💼 LinkedIn: [linkedin.com/in/mahesh-patluri-74699a66](https://www.linkedin.com/in/mahesh-patluri)
+- 💼 LinkedIn: [linkedin.com/in/mahesh-patluri](https://www.linkedin.com/in/mahesh-patluri)
 - 📧 Email: [patluri.mahesh@gmail.com](mailto:patluri.mahesh@gmail.com)
 
 ---
